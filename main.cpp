@@ -10,6 +10,7 @@ int main(){
     primo (numero, 1, conta);
     if (conta==0){
         cout<<"numero primo"<<endl;
+        
     } else {
         cout<<"numero non primo"<<endl;
     }
